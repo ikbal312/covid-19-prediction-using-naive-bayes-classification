@@ -1,1 +1,1 @@
-# -covid-19-prediction-using-naive-bayes-classification
+# covid-19-prediction-using-naive-bayes-classification
